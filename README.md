@@ -35,7 +35,7 @@ The same rigorous pipeline used across all EventHorizon products:
 - Temporal stability across 6 partitions
 
 This pipeline is extracted into a standalone library:
-**[honest‑validation‑toolkit](https://github.com/seu-usuario/honest-validation-toolkit)**.
+**[honest‑validation‑toolkit](https://github.com/EventHorizon-ia/honest-validation-toolkit)**.
 
 ---
 
@@ -50,8 +50,8 @@ README.md
 
 ## Links
 
-- [Production Code](https://github.com/seu-usuario/eventhorizon-crypto)
-- [Main Hub](https://github.com/seu-usuario/eventhorizon-ai)
+- [Production Code](https://github.com/EventHorizon-ia/eventhorizon-crypto)
+- [Main Hub](https://github.com/EventHorizon-ia/eventhorizon-ai)
 - [Public Audit Dashboard](https://eventhorizon-ia.github.io/trader-ai/dashboard-en.html)
 
 ---
