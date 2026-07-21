@@ -51,7 +51,7 @@ README.md
 ## Links
 
 - [Production Code](https://github.com/EventHorizon-ia/eventhorizon-crypto)
-- [Main Hub](https://github.com/EventHorizon-ia/eventhorizon-ai)
+- [Main Hub](https://github.com/EventHorizon-ia/eventhorizon)
 - [Public Audit Dashboard](https://eventhorizon-ia.github.io/trader-ai/dashboard-en.html)
 
 ---
